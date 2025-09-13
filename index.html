@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Fayorax is an Amazon Affiliate Partner offering the best deals across fashion, electronics, beauty, and more. Shop smarter and save with our curated categories."/>
+  <title>Fayorax – Amazon Affiliate Deals & Shopping</title>
+  <link rel="icon" href="https://fayorax.vercel.app/_next/image?url=%2Fimages%2Ffayorax-logo.png&w=256&q=75" type="image/png"/>
+  <style>
+    :root {
+      --bg: #000;
+      --text: #eee;
+      --subtext: #ccc;
+      --border-light: rgba(255,255,255,0.2);
+      --card-bg: rgba(0,0,0,0.6);
+      --primary-color: #ffffff9f;
+      --footer-text: #666;
+    }
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    header {
+      margin-bottom: 40px;
+    }
+    header img {
+      width: 64px;
+      height: 64px;
+      border-radius: 12px;
+      vertical-align: middle;
+    }
+    header h1 {
+      display: inline-block;
+      font-size: 1.8rem;
+      font-weight: 600;
+      padding-bottom: 8px;
+      margin-left: 12px;
+      border-bottom: 2px solid var(--primary-color);
+      vertical-align: middle;
+    }
+    .intro {
+      margin: 20px 0;
+      color: var(--subtext);
+      font-size: 0.95rem;
+    }
+    .card-list {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      margin: 30px 0;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border-light);
+      backdrop-filter: blur(12px);
+      border-radius: 14px;
+      padding: 16px;
+      text-decoration: none;
+      color: var(--text);
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(255,255,255,0.25);
+    }
+    .card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+    .card-desc {
+      font-size: 0.85rem;
+      color: #aaa;
+    }
+    .cta {
+      display: block;
+      width: max-content;
+      margin: 40px auto;
+      padding: 12px 20px;
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border-light);
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .footer {
+      margin-top: 60px;
+      font-size: 0.85rem;
+      color: var(--footer-text);
+      line-height: 1.4;
+    }
+    .copyright {
+      margin-top: 20px;
+      font-size: 0.75rem;
+      color: var(--footer-text);
+    }
+    @media (max-width: 640px) {
+      header h1 { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="https://fayorax.vercel.app/_next/image?url=%2Fimages%2Ffayorax-logo.png&w=256&q=75" alt="Fayorax Logo"/>
+      <h1>Fayorax – Amazon Affiliate Deals</h1>
+    </header>
+    <p class="intro">
+      Fayorax is an <strong>Amazon Affiliate Partner</strong> offering the best online shopping deals.  
+      Explore categories like fashion, electronics, beauty, footwear, and more. Save smarter with our curated collections.
+    </p>
+
+    <div class="card-list">
+      <a href="https://fayorax.vercel.app/" class="card" target="_blank">
+        <div class="card-title">Home</div>
+        <div class="card-desc">Main shopping hub</div>
+      </a>
+      <a href="https://fayorax.vercel.app/beauty" class="card" target="_blank">
+        <div class="card-title">Beauty</div>
+        <div class="card-desc">Top beauty & skincare deals</div>
+      </a>
+      <a href="https://fayorax.vercel.app/deals" class="card" target="_blank">
+        <div class="card-title">Deals</div>
+        <div class="card-desc">Latest discounts & offers</div>
+      </a>
+      <a href="https://fayorax.vercel.app/denims" class="card" target="_blank">
+        <div class="card-title">Denims</div>
+        <div class="card-desc">Trendy denim collections</div>
+      </a>
+      <a href="https://fayorax.vercel.app/electronics" class="card" target="_blank">
+        <div class="card-title">Electronics</div>
+        <div class="card-desc">Best gadgets & devices</div>
+      </a>
+      <a href="https://fayorax.vercel.app/footwear" class="card" target="_blank">
+        <div class="card-title">Footwear</div>
+        <div class="card-desc">Shoes & sandals for every style</div>
+      </a>
+      <a href="https://fayorax.vercel.app/handbag" class="card" target="_blank">
+        <div class="card-title">Handbag</div>
+        <div class="card-desc">Stylish bags & purses</div>
+      </a>
+      <a href="https://fayorax.vercel.app/kidsware" class="card" target="_blank">
+        <div class="card-title">Kidsware</div>
+        <div class="card-desc">Clothing for kids</div>
+      </a>
+      <a href="https://fayorax.vercel.app/men" class="card" target="_blank">
+        <div class="card-title">Men</div>
+        <div class="card-desc">Men's fashion deals</div>
+      </a>
+      <a href="https://fayorax.vercel.app/t-shirt" class="card" target="_blank">
+        <div class="card-title">T-Shirts</div>
+        <div class="card-desc">Casual tees for all</div>
+      </a>
+      <a href="https://fayorax.vercel.app/watches" class="card" target="_blank">
+        <div class="card-title">Watches</div>
+        <div class="card-desc">Trendy timepieces</div>
+      </a>
+      <a href="https://fayorax.vercel.app/women" class="card" target="_blank">
+        <div class="card-title">Women</div>
+        <div class="card-desc">Women's clothing & fashion</div>
+      </a>
+      <a href="https://fayorax.vercel.app/about" class="card" target="_blank">
+        <div class="card-title">About Us</div>
+        <div class="card-desc">Learn about Fayorax</div>
+      </a>
+      <a href="https://fayorax.vercel.app/contact" class="card" target="_blank">
+        <div class="card-title">Contact</div>
+        <div class="card-desc">Get in touch with us</div>
+      </a>
+      <a href="https://fayorax.vercel.app/faq" class="card" target="_blank">
+        <div class="card-title">FAQ</div>
+        <div class="card-desc">Frequently asked questions</div>
+      </a>
+      <a href="https://fayorax.vercel.app/shop" class="card" target="_blank">
+        <div class="card-title">Shop</div>
+        <div class="card-desc">Explore all collections</div>
+      </a>
+    </div>
+
+    <a class="cta" href="https://fayorax.vercel.app" target="_blank">
+      🌐 Visit Full Fayorax Store
+    </a>
+
+    <div class="footer">
+      <p>
+        Disclaimer: Fayorax participates in the Amazon Affiliate Program. We may earn commissions from qualifying purchases made through our links.  
+        Prices and availability are subject to change. Shop responsibly.
+      </p>
+    </div>
+    <div class="copyright">
+      © 2025 Fayorax. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
