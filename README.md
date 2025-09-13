@@ -1,6 +1,6 @@
 # Fayorax – Amazon Affiliate Deals & Online Shopping
 
-Welcome to **Fayorax**, your trusted destination for finding the **best Amazon affiliate deals** across fashion, electronics, lifestyle, and more.  
+Welcome to **[Fayorax](https://fayorax.vercel.app/)**, your trusted destination for finding the **best Amazon affiliate deals** across fashion, electronics, lifestyle, and more.  
 We are part of the **Amazon Affiliate Partner Program**, which means we carefully curate trending products and exclusive offers for our users — so you can shop smarter and save more.
 
 ---
@@ -14,7 +14,6 @@ Our mission is to help customers find **affordable and high-quality products** w
 ## 🔗 Quick Links
 Explore Fayorax categories and pages:
 
-- [Home](https://fayorax.vercel.app/)
 - [Beauty](https://fayorax.vercel.app/beauty)  
 - [Deals](https://fayorax.vercel.app/deals)  
 - [Denims](https://fayorax.vercel.app/denims)  
@@ -47,4 +46,4 @@ Explore Fayorax categories and pages:
 
 ## 📢 Stay Connected
 Check out Fayorax today and explore the latest deals:  
-👉 [https://fayorax.vercel.app](https://fayorax.vercel.app)
+👉 **[Fayorax](https://fayorax.vercel.app/)**
