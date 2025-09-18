@@ -1,6 +1,6 @@
 # Fayorax – Amazon Affiliate Deals & Online Shopping
 
-Welcome to **[Fayorax](https://fayorax.vercel.app/)**, your trusted destination for finding the **best Amazon affiliate deals** across fashion, electronics, lifestyle, and more.  
+Welcome to **[Fayorax](https://www.fayorax.com/)**, your trusted destination for finding the **best Amazon affiliate deals** across fashion, electronics, lifestyle, and more.  
 We are part of the **Amazon Affiliate Partner Program**, which means we carefully curate trending products and exclusive offers for our users — so you can shop smarter and save more.
 
 ---
@@ -14,25 +14,25 @@ Our mission is to help customers find **affordable and high-quality products** w
 ## 🔗 Quick Links
 Explore Fayorax categories and pages:
 
-- [Beauty](https://fayorax.vercel.app/beauty)  
-- [Deals](https://fayorax.vercel.app/deals)  
-- [Denims](https://fayorax.vercel.app/denims)  
-- [Electronics](https://fayorax.vercel.app/electronics)  
-- [Footwear](https://fayorax.vercel.app/footwear)  
-- [Handbag](https://fayorax.vercel.app/handbag)  
-- [Kidsware](https://fayorax.vercel.app/kidsware)  
-- [Men](https://fayorax.vercel.app/men)  
-- [T-Shirts](https://fayorax.vercel.app/t-shirt)  
-- [Watches](https://fayorax.vercel.app/watches)  
-- [Women](https://fayorax.vercel.app/women)  
+- [Beauty](https://www.fayorax.com/beauty)  
+- [Deals](https://www.fayorax.com/deals)  
+- [Denims](https://www.fayorax.com/denims)  
+- [Electronics](https://www.fayorax.com/electronics)  
+- [Footwear](https://www.fayorax.com/footwear)  
+- [Handbag](https://www.fayorax.com/handbag)  
+- [Kidsware](https://www.fayorax.com/kidsware)  
+- [Men](https://www.fayorax.com/men)  
+- [T-Shirts](https://www.fayorax.com/t-shirt)  
+- [Watches](https://www.fayorax.com/watches)  
+- [Women](https://www.fayorax.com/women)  
 
 ---
 
 ## 📘 More Information
-- [About Us](https://fayorax.vercel.app/about)  
-- [Contact](https://fayorax.vercel.app/contact)  
-- [FAQ](https://fayorax.vercel.app/faq)  
-- [Shop](https://fayorax.vercel.app/shop)  
+- [About Us](https://www.fayorax.com/about)  
+- [Contact](https://www.fayorax.com/contact)  
+- [FAQ](https://www.fayorax.com/faq)  
+- [Shop](https://www.fayorax.com/shop)  
 
 ---
 
@@ -46,4 +46,4 @@ Explore Fayorax categories and pages:
 
 ## 📢 Stay Connected
 Check out Fayorax today and explore the latest deals:  
-👉 **[Fayorax](https://fayorax.vercel.app/)**
+👉 **[Fayorax](https://www.fayorax.com/)**  
