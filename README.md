@@ -25,11 +25,13 @@ Every review, article, and preview is curated to provide **accurate, detailed, a
 ## 🔗 Explore Fayorax
 Discover our latest content and resources:
 
-- [Articles](https://www.fayorax.com/article) – Guides, tips, and insights for smarter choices  
-- [News](https://www.fayorax.com/news) – Latest updates across tech, fashion, and lifestyle  
-- [Previews](https://www.fayorax.com/preview) – Sneak peeks of upcoming products and collections  
-- [Reviews](https://www.fayorax.com/review) – Detailed and unbiased product reviews  
-- [Blog](https://www.fayorax.com/blog) – Engaging posts on trends, recommendations, and expert insights  
+| Content Type | Description | Example Link |
+|-------------|------------|--------------|
+| Articles    | In-depth guides, tips, and insights for smarter decisions | [Articles](https://www.fayorax.com/article) |
+| News        | Latest updates across tech, fashion, and lifestyle | [News](https://www.fayorax.com/news) |
+| Previews    | Sneak peeks of upcoming products and collections | [Previews](https://www.fayorax.com/preview) |
+| Reviews     | Detailed and unbiased product reviews | [Reviews](https://www.fayorax.com/review) |
+| Blog        | Engaging posts on trends, recommendations, and expert insights | [Blog](https://www.fayorax.com/blog) |
 
 ---
 
