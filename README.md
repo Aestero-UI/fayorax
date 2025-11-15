@@ -1,3 +1,7 @@
+# Fayorax – Reviews, Articles & Product Insights
+
+[![Fayorax Website](https://github.com/Aestero-UI/fayorax/blob/main/fayorax-hero.png?raw=true)](https://www.fayorax.com/)
+
 Welcome to **[Fayorax](https://www.fayorax.com/)**, a professional platform dedicated to providing **in-depth product reviews, informative articles, previews, blogs, and the latest news** across fashion, electronics, lifestyle, and beauty.  
 
 Our goal is to help readers make **confident purchasing decisions**, stay updated with trends, and discover high-quality products through well-researched content.
